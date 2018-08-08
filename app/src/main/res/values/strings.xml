@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Literature Clock</string>
+    <string name="credit_title">Credits</string>
+    <string name="credits">Based on code and images from the Instructable by tjaap. https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/
+    \n App created by kk6axq. \n This app and all resources within are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Generic License.
+    To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.5/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</string>
+    <string name="credit_close">Close</string>
+    <string name="action_credits">Credits</string>
+</resources>
