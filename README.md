@@ -1,0 +1,1 @@
+Repository for the literature clock app. Adapted from the instructable linked below. Literature clock images from https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/ and user https://www.instructables.com/member/tjaap/ Licensed under https://creativecommons.org/licenses/by-nc-sa/2.5/.
